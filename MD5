@@ -1,0 +1,13 @@
+88e000ca614b17ec6f8db92ae73d0182 *DESCRIPTION
+04153a3ca5927c657430834cedbdd8ed *LICENSE
+9e5ceaa141435c1336df98aebf40a6c3 *NAMESPACE
+988d3b8cb671ae2adb5471488391eff7 *NEWS.md
+560468791f005cce8442caa39896864a *R/gtranslate.R
+9e48a0979ae5cc18d085c93f88df7e79 *R/lang_codes.R
+53ff7046325256608c3d12ea4faeb612 *R/langcodes.R
+f7fcf7727141cd2be84b2927e4a659d0 *README.md
+73833d5bc109a73cca3bb3c67d8d7a8c *data/lang_codes.rda
+b3e8c17b806399dbadb664def5bc4b9f *man/lang_codes.Rd
+618512d1e39c439810cc4503a5ca5f5c *man/translate.Rd
+accd9e8ab93c8b6b8541a871fb3510e6 *tests/testthat.R
+225e3812b897786befc574f805c96dc2 *tests/testthat/test-gtranslate.R
